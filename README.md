@@ -1,7 +1,7 @@
 # Cricket-Game
 This is basic 20-20 cricket game using Turbo C++
 
-*Note that this code works only on Turbo C++ environment*
+*Note: This code works only on Turbo C++ environment*
 ## Dependencies
 Make sure Graphics.h is imported, that is the key library in the entire project.
 
