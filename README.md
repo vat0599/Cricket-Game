@@ -1,5 +1,5 @@
 # Cricket-Game
-This is basic 20-20 cricket game using Turbo C++
+This game was entirely developed on C++. And hence the low graphics xD
 
 *Note: This code works only on Turbo C++ environment*
 ## Dependencies
