@@ -316,7 +316,7 @@ void cricket::target(int select)
 	char menu_opt[8][14]={
 	"IND","WI","PAK","ENG","NZ","AUS","SL","SA"
 	};
-	int min = 190, max = 350, r,n=8;
+	int min = 70, max = 140, r,n=8;
 	float q;
 	randomize();
 	do{
