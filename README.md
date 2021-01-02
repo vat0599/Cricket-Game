@@ -2,6 +2,9 @@
 This game was entirely developed on C++. And hence the low graphics xD
 
 *Note: This code works only on Turbo C++ environment*
+
+Highly recommend you guys to check out my video having the demo: https://www.youtube.com/watch?v=oetW8Y7qm0s
+
 ## Dependencies
 Make sure Graphics.h is imported, that is the key library in the entire project.
 
