@@ -56,3 +56,6 @@ Just click Ctrl+F9 and it works like a charm:")
 <img src="https://user-images.githubusercontent.com/41820878/91050777-c671e280-e63c-11ea-8095-8cba50e98473.png" width = "700" height = "400">
 
 All the best!!!!!!!!!!!!
+
+## Contributions
+Do not hesitate to contribute by [filling an issue](https://github.com/vat0599/Cricket-Game/issues) or [a PR](https://github.com/vat0599/Cricket-Game/pulls) !
