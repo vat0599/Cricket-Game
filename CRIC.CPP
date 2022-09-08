@@ -266,8 +266,7 @@ void cricket::credits()
 	outtextxy( 0 , 20 , "CREDITS:" );
 	settextstyle( 3 , 0 , 2 );
 	setcolor( 10 );
-	outtextxy( 15 , 120 , "This game is developed by S.R.Srivatsav of class 12 A of" );
-	outtextxy( 15 , 140 , "P.S. Senior Secondary School." );
+	outtextxy( 15 , 120 , "This game is developed by S.R.Srivatsav." );
 	outtextxy( 15 , 200 , "If you have any doubts or encountered any bug,mail me" );
 	outtextxy( 15 , 220 , "at steevesrivatsav@gmail.com." );
 	outtextxy( 15 , 260 , "Suggestions are welcomed." );
